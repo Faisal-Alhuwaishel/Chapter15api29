@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chapter15api29</string>
+    <string-array name="entries">
+        <item>Riyadh</item>
+        <item>Paris</item>
+        <item>Milton</item>
+        <item>New York</item>
+        <item>Moscow</item>
+    </string-array>
+</resources>
