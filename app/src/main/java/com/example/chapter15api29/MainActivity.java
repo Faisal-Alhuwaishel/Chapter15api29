@@ -33,7 +33,7 @@ import java.util.Date;
 public class MainActivity extends AppCompatActivity {
     // we"ll make HTTP request to this URL to retrieve weather conditions
     String weatherWebserviceURL =
-            "http://api.openweathermap.org/data/2.5/weather?q=riyadh&appid=c4e0425479a004ea8e0751e141be2152&units=metric";
+            "http://api.openweathermap.org/data/2.5/weather?q=riyadh&appid=xxxx&units=metric";
     ImageView weatherBackground;
     // Textview to show temperature and description
     TextView temperature, description,humidity,sunrise,sunset,windSpeed;
